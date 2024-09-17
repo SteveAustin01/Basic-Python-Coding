@@ -1,14 +1,11 @@
-# Define variables
-age = 24
-print(age) 
 
 age = 20
 print(age)  
 
-weight = 90
+weight = 68
 print(weight)  
 
-name = "mehedi"
+name = "STEVE AA"
 print(name)  
 
 good_programmer = True
